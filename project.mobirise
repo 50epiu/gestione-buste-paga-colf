@@ -521,6 +521,9 @@
               "@media (max-width: 767px)": {
                 "text-align": "center"
               }
+            },
+            "H1": {
+              "text-align": "left"
             }
           },
           "_name": "header3",
