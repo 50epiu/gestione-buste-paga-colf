@@ -53,7 +53,7 @@
     "gdpr": "Autorizzo il trattamento dei miei dati personali ai sensi del\r\nD.Lgs n. 196/2003, come modificato dal D.Lgs n. 101/2018. Al link seguente è disponibile la nostra  <a href='https://www.iubenda.com/privacy-policy/76529359'>Privacy Policy</a>.",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-49x68.png",
     "noImageResize": "",
-    "cookiesAlert": "Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Continuando la navigazione, acconsenti all'utilizzo. Noi usiamo Google Analytics che crea dei cookies. Puoi cancellare e bloccare tutti i cookies di questo sito, ma alcune parti del sito potrebbero non funzionare. Per ulteriori informazioni sui cookies puoi visitare la privacy policy. <a href='https://www.iubenda.com/privacy-policy/76529359'>cookie policy</a>.",
+    "cookiesAlert": "Questo sito utilizza cookie e Google Analytics che crea dei cookie, continuando la navigazione ne acconsenti all'utilizzo. Puoi cancellare e bloccare tutti i cookies di questo sito: <a href='https://www.iubenda.com/privacy-policy/76529359'>cookie policy</a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-75360128-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-75360128-3');\r\n</script>"
   },
   "pages": {
